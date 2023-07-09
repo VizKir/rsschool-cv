@@ -8,6 +8,7 @@
 ## 4 Skills
 ### Don`t have it yet. But I learn HTML, JS and Java.
 ## 5 Code examples
-### My first step in coding https://github.com/VizKir/rsschool-cv/edit/gh-pages/cv
+### My first step in coding:
+#### https://github.com/VizKir/rsschool-cv/edit/gh-pages/cv
 ## 6 English language level
 ### A2 (Elementary)
