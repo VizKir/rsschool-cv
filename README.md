@@ -1,3 +1,3 @@
 # rsschool-cv
 # CV 
-https://VizKir.github.io/rsschool-cv/cv
+https://VizKir.github.io/rsschool-cv-html/cv
